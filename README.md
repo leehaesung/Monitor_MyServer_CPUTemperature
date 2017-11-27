@@ -19,3 +19,9 @@
 
 ![CPUTempAtMyLaptop.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/CPUTempAtMyLaptop.png)
 
+***
+## (3) SQLite Datasbase Browser
+
+![SQLiteDB_Browser_For_CPU_Temp.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/SQLiteDB_Browser_For_CPU_Temp.png)
+
+***
