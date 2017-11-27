@@ -1,4 +1,4 @@
-# Monitoring Server CPU Temperature
+# Monitoring System For Server's CPU Temperature
 
 ***
 
