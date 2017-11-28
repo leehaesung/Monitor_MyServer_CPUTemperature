@@ -17,7 +17,7 @@
 * [Source Code For Linux Server](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringServerAtServer.png)
 
 
-![CPUTempAtMyLaptop.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/CPUTempAtMyLaptop.png)
+![CPUTempAtMyLaptop.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringServerAtServer.png)
 
 ***
 ## (3) SQLite Datasbase Browser
