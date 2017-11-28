@@ -9,12 +9,12 @@
 
 * [Source Code For AWS](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/02_MonitoringCPUTempAWS.txt)
 
-![MonitoringMyLaptopAWS.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringMyLaptopAWS.png)
+![MonitoringMyLaptopAWS.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringSeverAtAWS.png)
 
 ***
 ## (2) WEB @Server or Laptop
 
-* [Source Code For Linux Server](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/01_MonitoringCPUTempAtLaptop.txt)
+* [Source Code For Linux Server](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringServerAtServer.png)
 
 
 ![CPUTempAtMyLaptop.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/CPUTempAtMyLaptop.png)
