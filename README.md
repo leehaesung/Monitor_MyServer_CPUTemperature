@@ -14,7 +14,7 @@
 ***
 ## (2) WEB @Server or Laptop
 
-* [Source Code For Linux Server](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringServerAtServer.png)
+* [Source Code For Linux Server](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/01_MonitoringCPUTempAtLaptop.txt)
 
 
 ![CPUTempAtMyLaptop.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringServerAtServer.png)
