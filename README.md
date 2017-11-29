@@ -81,6 +81,8 @@
 
     .output stdout
 ```
+* [Output: test.csv](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/test.csv)
+
 
 ### References
 
