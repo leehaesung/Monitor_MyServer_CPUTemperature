@@ -71,6 +71,7 @@
 ## (5) How To Export CSV File
 
     ```
+    
     sqlite3 sqliteCpu
 
     .mode csv
@@ -80,6 +81,7 @@
     select * from HOME;
 
     .output stdout
+    
     ```
 
 ### References
