@@ -38,7 +38,9 @@
 
 ***
 ## (4) SQLite3
+
 * How to search the temperature data:
+
     ```
     ubuntu@ubuntu:~$ sqlite3 sqliteCpu
     SQLite version 3.8.2 2013-12-06 14:53:30
@@ -61,7 +63,6 @@
     1511846797164|171128162637|29
     1511918384536|171129121944|29
     sqlite> .quit
-
     ```
 
 ![HowToSearchTemperatureInSQLite3.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/HowToSearchTemperatureInSQLite3.png)
