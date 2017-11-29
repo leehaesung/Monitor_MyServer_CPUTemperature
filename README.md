@@ -37,6 +37,11 @@
 ![SQLiteDB_Browser_For_CPU_Temp.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/SQLiteDB_Browser_For_CPU_Temp.png)
 
 ***
+## (4) SQLite3
+
+![HowToSearchTemperatureInSQLite3.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/HowToSearchTemperatureInSQLite3.png)
+
+
 ### References
 
 * [SQLite3-Python Quick Guide](https://github.com/leehaesung/SQLite-Python_Quick_Guide)
