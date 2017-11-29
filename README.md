@@ -5,14 +5,14 @@
 ![MonitoringCPUTemp.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringCPUTemp.png)
 
 ***
-## (1) WEB @AWS
+## (1) Dashboard @AWS
 
 * [Source Code For AWS](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/02_MonitoringCPUTempAWS.txt)
 
 ![MonitoringMyLaptopAWS.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringSeverAtAWS.png)
 
 ***
-## (2) WEB @Server or Laptop
+## (2) Dashboard @Server or Laptop
 
 * [Source Code For Linux Server](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/01_MonitoringCPUTempAtLaptop.txt)
 
