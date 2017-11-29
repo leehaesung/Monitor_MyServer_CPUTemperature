@@ -7,7 +7,9 @@
 ***
 ## (1) Dashboard @AWS
 
-* [Source Code For AWS](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/02_MonitoringCPUTempAWS.txt)
+* [Source Code of For Python](http://nbviewer.jupyter.org/github/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Arduino_MQTT_SigFox.ipynb)
+
+* [Source Code For NodeRED](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/02_MonitoringCPUTempAWS.txt)
 
 ![MonitoringMyLaptopAWS.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringSeverAtAWS.png)
 
