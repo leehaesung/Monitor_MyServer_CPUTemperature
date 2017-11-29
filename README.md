@@ -68,7 +68,8 @@
 ![HowToSearchTemperatureInSQLite3.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/HowToSearchTemperatureInSQLite3.png)
 
 ***
-## (4) How To Export CSV File
+## (5) How To Export CSV File
+
     ```
     sqlite3 sqliteCpu
 
