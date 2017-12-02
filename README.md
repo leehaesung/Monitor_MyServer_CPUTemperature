@@ -2,7 +2,7 @@
 
 ***
 
-![MonitoringCPUTemp.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringCPUTemp.png)
+![MonitoringCPUTemp.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/TensorFlowAnalyticsSeverCPUTemp.png?raw=true)
 
 ***
 ## (1) Dashboard @AWS
