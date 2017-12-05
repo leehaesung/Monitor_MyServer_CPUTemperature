@@ -4,6 +4,8 @@
 
 ![MonitoringCPUTemp.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/TensorFlowAnalyticsSeverCPUTemp.png?raw=true)
 
+![Linear_Regression_Model](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/Linear_Regression_Model.png?raw=true)
+
 ***
 ## (1) Dashboard @AWS
 
