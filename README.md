@@ -7,22 +7,29 @@
 ![Linear_Regression_Model](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/Linear_Regression_Model.png?raw=true)
 
 ***
-## (1) Dashboard @AWS
+## (1) Data Analytics
 
-* [Source Code of Python (Jupyter-notebook): Ver 0.1](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT_VER_0.1.ipynb)
+* [Python Code For Jupyter-nbviwer(Ver 0.2)](http://nbviewer.jupyter.org/github/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT_VER_0.2.ipynb)
 
-* [Source Code of Python (Jupyter-notebook): Ver 0.0](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT.ipynb)
+* [Python Code For Jupyter-nbviwer(Ver 0.1)](http://nbviewer.jupyter.org/github/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT_VER_0.1.ipynb)
 
-* [Nbviewer Jupyter-notebook of Python: Ver 0.1](http://nbviewer.jupyter.org/github/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT_VER_0.1.ipynb)
+* [Python Code For Jupyter-nbviwer(Ver 0.0)](http://nbviewer.jupyter.org/github/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT.ipynb)
 
-* [Nbviewer Jupyter-notebook of Python: Ver 0.0](http://nbviewer.jupyter.org/github/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT.ipynb)
+* [Python Code For Jupyter-notebook (Ver 0.2)](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT_VER_0.2.ipynb)
+
+* [Python Code For Jupyter-notebook (Ver 0.1)](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT_VER_0.1.ipynb)
+
+* [Python Code For Jupyter-notebook (Ver 0.0)](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/SQLite3_with_Monitoring_Server_Temperature_MQTT.ipynb)
+
+
+## (2) Dashboard @AWS
 
 * [Source Code For NodeRED](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/02_MonitoringCPUTempAWS.txt)
 
 ![MonitoringMyLaptopAWS.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringSeverAtAWS.png)
 
 ***
-## (2) Dashboard @Server or Laptop
+## (3) Dashboard @Server or Laptop
 
 * [Source Code For Linux Server](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/02_Source_Codes/01_MonitoringCPUTempAtLaptop.txt)
 
@@ -30,7 +37,7 @@
 ![CPUTempAtMyLaptop.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/MonitoringServerAtServer.png)
 
 ***
-## (3) SQLite Datasbase Browser
+## (4) SQLite Datasbase Browser
 
 * How to install SQLite3 for Ubuntu:
     ```
@@ -45,7 +52,7 @@
 ![SQLiteDB_Browser_For_CPU_Temp.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/SQLiteDB_Browser_For_CPU_Temp.png)
 
 ***
-## (4) SQLite3
+## (5) SQLite3
 
 * How to search the temperature data:
 
@@ -76,7 +83,7 @@
 ![HowToSearchTemperatureInSQLite3.png](https://github.com/leehaesung/Monitor_MyServer_CPUTemperature/blob/master/01_Images/HowToSearchTemperatureInSQLite3.png)
 
 ***
-## (5) How To Export CSV File
+## (6) How To Export CSV File
 
 ```
     sqlite3 sqliteCpu
